@@ -1,0 +1,10 @@
+# _Sidebar.org - Gollum page sidebar.
+# File Created: 28 October 2015
+# Author: John Pallister <john@synchromesh.com>
+#
+#+CATEGORY: JPKB
+#
+
+Sidebar text goes here.
+
+# End of _Sidebar.org
