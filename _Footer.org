@@ -1,9 +1,7 @@
 # _Footer.org - Gollum page footer.
 # File Created: 28 October 2015
 # Author: John Pallister <john@synchromesh.com>
-#
 #+CATEGORY: JPKB
-#
 
 Footer text goes here.
 
