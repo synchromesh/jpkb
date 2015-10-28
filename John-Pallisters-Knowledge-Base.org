@@ -1,0 +1,4 @@
+* Welcome to John Pallister's Knowledge Base (GitHub version)
+This is my personal wiki. I am a programmer and musician, husband and father currently living in Norfolk, England. I can also be found on ​[[https://www.facebook.com/synchromesh][Facebook]], ​[[https://twitter.com/synchromesh][Twitter]], ​Google+ and the ​[[http://www.muffwiggler.com/forum/profile.php?mode=viewprofile&u=4385][Muff Wiggler forum]].
+
+I need to port the rest of the content from its [[https://johnp.net/jpkb/][current location]].
