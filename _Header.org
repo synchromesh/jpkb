@@ -1,0 +1,8 @@
+# _Header.org - Gollum page header.
+# File Created: 28 October 2015
+# Author: John Pallister <john@synchromesh.com>
+#+CATEGORY: JPKB
+
+Header text goes here.
+
+# End of _Header.org
